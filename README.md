@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stephenvouch
 - 👀 I’m interested in technology, the outdoors, and helping people find better opportunities to accelerate their lives.  
-- 🌱 I’m currently learning Kubernetes and Virtual Clusters. 
+- 🌱 I’m currently learning how to build Agents. 
 - 💞️ I’m looking to collaborate on open-source technologies and new tools. 
 
 <!---
